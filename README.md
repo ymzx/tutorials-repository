@@ -7,10 +7,12 @@
 - https://zh.d2l.ai/
 3. mxnet gluon —— 问题交流论坛
 - https://discuss.gluon.ai/
-4. mxnet python api —— mxnet api结构，用于模型调试和问题分析
+4. mxnet gluon python api —— mxnet api结构，用于模型调试和问题分析
 - http://mxnet.incubator.apache.org/api/python/docs/api/index.html
 5. mxnet gluon model zoo Tutorials —— 有哪些可以直接使用的预训练模型
 - https://gluon-cv.mxnet.io/tutorials/index.html
+6. mxnet gluonNLP model zoo and tutorials —— NLP可调用预训练模型（包括BERT）以及如何自己从0开始构造nlp模型
+- https://gluon-nlp.mxnet.io/master/index.html
 
 ### 数学基础
 1. 矩阵、向量运算
