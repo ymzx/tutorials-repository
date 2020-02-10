@@ -13,4 +13,5 @@
 - https://gluon-cv.mxnet.io/tutorials/index.html
 
 ### 数学基础
+1. 矩阵、向量运算
 - http://zh.gluon.ai/chapter_appendix/math.html
