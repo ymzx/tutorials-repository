@@ -12,7 +12,5 @@
 5. mxnet gluon model zoo Tutorials —— 有哪些可以直接使用的预训练模型
 - https://gluon-cv.mxnet.io/tutorials/index.html
 
-
-
-
-
+### 数学基础
+- http://zh.gluon.ai/chapter_appendix/math.html
