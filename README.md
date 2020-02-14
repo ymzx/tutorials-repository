@@ -54,6 +54,11 @@
 - [李宏毅-台湾大学-视频](https://www.youtube.com/watch?v=KKT2VkTdFyc)
 - [李宏毅-台湾大学-个人网站/pdf/PPT](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
 
+### 深度学习 only depend on python?
+- 如果是学术科研发文章, maybe depend on python only, (如果有学术大神还请指正)
+- 如果是工业生产, maybe 30% depend on python only, what 70% is?
+![AI flow](images/nn.png)
+  
 
 ### 数学基础
 1. 矩阵、向量运算
