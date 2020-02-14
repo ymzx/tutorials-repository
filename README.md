@@ -59,6 +59,7 @@
 - 如果是工业生产, maybe 30% depend on python only, what 70% is?
   
   ![AI flow](images/nn.png)
+  以上流程尤以部署升级、模型优化迭代难度较为突出
   
 
 ### 数学基础
