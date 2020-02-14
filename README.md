@@ -1,5 +1,14 @@
 # tutorials-repository
 算法学习、工程应用的资源集合  尤其是AI guide或者tutorials
+### 深度学习框架以及编程工具
+- 深度学习框架
+  1. Pytorch (Facebook人工智能研究院，命令式编程)
+  2. Mxnet (Amazon，命令式编程+图计算)
+  3. Keras (tensorflow高阶api，命令式编程)
+  以上框架学习成本较低，有完善且成体系的教程，pytorch广泛用于学术和工业；mxnet和pytorch性能和功能几乎对等，只是比较低调；keras更适用于学生群体。
+  不建议使用tensorflow 1.0,如果一定要学习tensorflow，建议使用2.0版本以上。
+ - 编程工具
+
 ### MXNET资源
 1. Distributed (Deep) Machine Learning Community —— mxnet发展蓝图
 - https://github.com/dmlc
