@@ -12,6 +12,14 @@
  
     ![编程工具趋势](images/tools.png)
     如果你90%的业务需求需要python语言，那么pycharm是你需要优先考虑的。
+  - 如果你想让自己基于python开发的神经网络模型投入实际生产中，那么你需要提前掌握至少以下模块或者知识点
+    1. 多线程、多进程
+    2. 类
+    3. 正则表达式
+    4. logging
+    5. 装饰器
+    6. cv2, numpy, os, json, pandas, skearn
+    7. flask框架
     
 ### MXNET资源
 1. Distributed (Deep) Machine Learning Community —— mxnet发展蓝图
@@ -53,6 +61,9 @@
 7. 如果你想通过看中文视频学习整个的AI相关理论，例如CNN\RNN\GAN\NLP\RL\AM等，以下是你不错的选择
 - [李宏毅-台湾大学-视频](https://www.youtube.com/watch?v=KKT2VkTdFyc)
 - [李宏毅-台湾大学-个人网站/pdf/PPT](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
+8. 如果你想身临其境看看神经网络模型内部结果，以下3D可视化网站是你不错的选择
+- https://www.cs.ryerson.ca/~aharley/vis/conv/
+
 
 ### 深度学习 only depend on python?
 - 如果是学术科研发文章, maybe depend on python only, (如果有学术大神还请指正)
