@@ -55,7 +55,7 @@
 - ![Machine Learning Yearning](AI tutorial/Machine Learning Yearning-1-52.pdf)
 3. 如果你想对NLP有一个快速而有系统的认识，以下是你不错的选择
 - ![Notes on Deep Learning for NLP](AI tutorial/Notes on Deep Learning for NLP.pdf)
-4. 如果你相对深度学习有系统而又全面的认识，以下是你不错的选择
+4. 如果你想对深度学习有系统而又全面的认识，以下是你不错的选择
 - ![深度学习](AI tutorial/dlbook_cn_v0.5-beta.pdf)
 5. 如果你想对CRF理论建立深刻的认识，以下是你不错的选择
 - ![CRF](AI tutorial/crf-tutorial.pdf)
