@@ -70,7 +70,7 @@
 
 
 ### 深度学习 only depend on python?
-- 如果是学术科研发文章, maybe depend on python only, (如果有学术大神还请指正)
+- 如果是学术科研, maybe depend on python only, (如果有学术大神还请指正)
 - 如果是工业生产, maybe 30% depend on python only, what 70% is?
   
   ![AI flow](images/nn.png)
