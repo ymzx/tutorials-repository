@@ -8,7 +8,7 @@
   3. Keras (tensorflow高阶api，命令式编程)  
   
   以上框架学习成本较低，有完善且成体系的教程，pytorch广泛用于学术和工业；mxnet和pytorch性能和功能几乎对等，只是比较低调；keras更适用于学生群体。   
-*不建议使用tensorflow 1.0,如果一定要学习tensorflow，建议使用2.0版本以上。*
+*不建议使用tensorflow 1.0，如果一定要学习tensorflow，建议使用2.0版本以上。*
  - 编程工具
  
     ![编程工具趋势](images/tools.png)
