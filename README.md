@@ -65,7 +65,7 @@
 - [李宏毅-台湾大学-视频](https://www.youtube.com/watch?v=KKT2VkTdFyc)
 - [李宏毅-台湾大学-个人网站/pdf/PPT](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
 8. 如果你想身临其境看看神经网络模型内部结果，以下3D可视化网站是你不错的选择
-- https://www.cs.ryerson.ca/~aharley/vis/conv/
+- ![3D网络可视化](https://www.cs.ryerson.ca/~aharley/vis/conv/)
 
 
 ### 深度学习 only depend on python?
