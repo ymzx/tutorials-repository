@@ -20,6 +20,9 @@
     5. 装饰器
     6. cv2, numpy, os, json, pandas, skearn
     7. flask框架
+    8. python 编程规范和工程搭建指南
+      - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+      - [实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
     
 ### MXNET资源
 1. Distributed (Deep) Machine Learning Community —— mxnet发展蓝图
