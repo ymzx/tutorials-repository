@@ -47,7 +47,7 @@
 4. 如果你相对深度学习有系统而又全面的认识，以下是你不错的选择
 - ![深度学习](AI tutorial/dlbook_cn_v0.5-beta.pdf)
 5. 如果你想对CRF理论建立深刻的认识，以下是你不错的选择
-- [CRF](AI tutorial/crf-tutorial.pdf)
+- ![CRF](AI tutorial/crf-tutorial.pdf)
 6. 如果你想初略看下深度学习应用，例如风格迁移、生成古诗词等，以下是你不错的选择
 - [深度有趣](AI tutorial/深度有趣.pdf)
 7. 如果你想通过看中文视频学习整个的AI相关理论，例如CNN\RNN\GAN\NLP\RL\AM等，以下是你不错的选择
@@ -57,6 +57,7 @@
 ### 深度学习 only depend on python?
 - 如果是学术科研发文章, maybe depend on python only, (如果有学术大神还请指正)
 - 如果是工业生产, maybe 30% depend on python only, what 70% is?
+  
   ![AI flow](images/nn.png)
   
 
