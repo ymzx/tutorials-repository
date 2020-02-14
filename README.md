@@ -1,4 +1,4 @@
-# tutorials-repository
+# Tutorials Repository
 算法学习、工程应用的资源集合  尤其是AI guide或者tutorials
 
 ### 深度学习框架以及编程工具
