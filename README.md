@@ -25,7 +25,7 @@
       - [PEP 8](https://www.python.org/dev/peps/pep-0008/)
       - [实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
     9. 数据科学python工程模板
-      - ![How_to_Structure_a_Python-Based_Data_Science_Project_(a_short_tutorial_for_beginners)](Other/How_to_Structure_a_Python-Based_Data_Science_Project_(a_short_tutorial_for_beginners).pdf) 
+      - [How_to_Structure_a_Python-Based_Data_Science_Project_(a_short_tutorial_for_beginners)](Other/How_to_Structure_a_Python-Based_Data_Science_Project_(a_short_tutorial_for_beginners).pdf) 
     
 ### MXNET资源
 1. Distributed (Deep) Machine Learning Community —— mxnet发展蓝图
