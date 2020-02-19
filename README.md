@@ -53,17 +53,17 @@
 
 ### 深度学习实践和理论
 1. 如果你想初步了解深度学习以及python实践，以下是你不错的选择
-- ![Deep Learning with Python](AI tutorial/Deep Learning with Python.pdf)
+- [Deep Learning with Python](AI tutorial/Deep Learning with Python.pdf)
 2. 如果你想进阶深度学习，包括优化策略、loss分析、train/test策略、权重分析、ends-ends等，以下是你不错的选择
-- ![Machine Learning Yearning](AI tutorial/Machine Learning Yearning-1-52.pdf)
+- [Machine Learning Yearning](AI tutorial/Machine Learning Yearning-1-52.pdf)
 3. 如果你想对NLP有一个快速而有系统的认识，以下是你不错的选择
-- ![Notes on Deep Learning for NLP](AI tutorial/Notes on Deep Learning for NLP.pdf)
+- [Notes on Deep Learning for NLP](AI tutorial/Notes on Deep Learning for NLP.pdf)
 4. 如果你想对深度学习有系统而又全面的认识，以下是你不错的选择
-- ![深度学习](AI tutorial/dlbook_cn_v0.5-beta.pdf)
+- [深度学习](AI tutorial/dlbook_cn_v0.5-beta.pdf)
 5. 如果你想对CRF理论建立深刻的认识，以下是你不错的选择
-- ![CRF](AI tutorial/crf-tutorial.pdf)
+- [CRF](AI tutorial/crf-tutorial.pdf)
 6. 如果你想初略看下深度学习应用，例如风格迁移、生成古诗词等，以下是你不错的选择
-- ![深度有趣](AI tutorial/深度有趣.pdf)
+- [深度有趣](AI tutorial/深度有趣.pdf)
 7. 如果你想通过看中文视频学习整个的AI相关理论，例如CNN\RNN\GAN\NLP\RL\AM等，以下是你不错的选择
 - [李宏毅-台湾大学-视频](https://www.youtube.com/watch?v=KKT2VkTdFyc)
 - [李宏毅-台湾大学-个人网站/pdf/PPT](http://speech.ee.ntu.edu.tw/~tlkagk/talk.html)
