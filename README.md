@@ -78,7 +78,9 @@
   ![AI flow](images/nn.png)
   以上流程尤以部署升级、模型优化迭代难度较为突出
   
-
+### python 与 CV
+1. 如果你想用Python重复CV各种算法，以下是你不错的选择
+- [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 ### 数学基础
 1. 矩阵、向量运算
 - http://zh.gluon.ai/chapter_appendix/math.html
