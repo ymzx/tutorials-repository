@@ -84,3 +84,6 @@
 ### 数学基础
 1. 矩阵、向量运算
 - http://zh.gluon.ai/chapter_appendix/math.html
+
+2. java 学习资料
+- https://github.com/freestylefly/javaStudy#ajax
